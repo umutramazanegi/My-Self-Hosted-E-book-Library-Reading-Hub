@@ -102,10 +102,10 @@ Bu GitHub deposunun, kütüphane sunucusunun kendisini veya içeriğini **barın
 ## 📄 License | Lisans
 
 ### 🇬🇧 English
-The textual content of this `README.md` file is made available under the [MIT License](LICENSE). (Consider adding a `LICENSE` file to your repository if you choose this license).
+The textual content of this `README.md` file is made available under the [MIT License](LICENSE). 
 
 ### 🇹🇷 Türkçe
-Bu `README.md` dosyasının metin içeriği [MIT Lisansı](LICENSE) altında sunulmaktadır. (Bu lisansı seçerseniz, reponuza bir `LICENSE` dosyası eklemeyi düşünebilirsiniz).
+Bu `README.md` dosyasının metin içeriği [MIT Lisansı](LICENSE) altında sunulmaktadır. 
 
 ---
 
