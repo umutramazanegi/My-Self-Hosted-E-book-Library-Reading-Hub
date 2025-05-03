@@ -1,94 +1,113 @@
-# Umut Ramazan Eği - Kişisel Kütüphane Sunucusu | Personal Library Server 📚
+# Kişisel Kütüphane Sunucusu | Personal Library Server 📚
 
-🇬🇧 This repository introduces my personal e-book library server, set up and managed by me.
-🇹🇷 Bu repo, benim tarafımdan kurulan ve yönetilen kişisel e-kitap kütüphane sunucumu tanıtmak amacıyla oluşturulmuştur.
 
-**🇬🇧 Library Server Address:** [https://library.umutramazanegi.com/calibre/](https://library.umutramazanegi.com/calibre/)
-**🇹🇷 Kütüphane Sunucusu Adresi:** [https://library.umutramazanegi.com/calibre/](https://library.umutramazanegi.com/calibre/)
-
----
 
 <!-- 🖼️ Resim Alanı | Image Section 🖼️ -->
-<!-- Buraya bir ekran görüntüsü veya tanıtıcı bir resim ekleyebilirsiniz -->
-<!-- You can add a screenshot or an introductory image here -->
+<!-- Buraya kütüphanenizin bir ekran görüntüsünü veya tanıtıcı bir resmi ekleyebilirsiniz. -->
+<!-- You can add a screenshot of your library or an introductory image here. -->
 <!-- Örnek / Example: -->
-<!-- ![Kütüphane Arayüzü Örneği](images/screenshot.png) -->
-<!-- Resminizi reponuzdaki bir klasöre (örneğin 'images') ekleyip yukarıdaki gibi link verebilirsiniz. -->
-<!-- Add your image to a folder in your repo (e.g., 'images') and link it like the example above. -->
+<!-- ![Kütüphane Arayüzü](images/screenshot.png) -->
+<!-- Resminizi reponuzdaki bir 'images' klasörüne ekleyip yukarıdaki gibi bağlayabilirsiniz. -->
+<!-- Add your image to an 'images' folder in your repo and link it as shown above. -->
 
 ---
 
-## 🇬🇧 About
+**🇬🇧 Introduction**
 
-This server hosts my personal digital book collection, currently containing around **500 e-books**. My goal is to create a central, self-controlled archive for my reading materials, easily accessible from anywhere.
+This repository serves as an introduction to my personal e-book library server, which I have set up and currently manage.
 
-## 🇹🇷 Hakkında
+**🇹🇷 Giriş**
 
-Bu sunucu, kişisel dijital kitap koleksiyonumu barındırmaktadır. Şu anda yaklaşık **500 adet e-kitap** bulunmaktadır. Amacım, okuma materyallerime her yerden kolayca erişebileceğim, merkezi ve kendi kontrolümde olan bir arşiv oluşturmaktır.
+Bu repo, benim tarafımdan kurulan ve yönetilen kişisel e-kitap kütüphane sunucumu tanıtmak amacıyla oluşturulmuştur.
 
 ---
 
-## 🚀 Technology Stack
+**🔗 Library Access | Kütüphane Erişimi**
 
-🇬🇧 The library server is implemented using the following technologies:
+*   **🇬🇧 Server Address:** [https://library.umutramazanegi.com/calibre/](https://library.umutramazanegi.com/calibre/)
+*   **🇹🇷 Sunucu Adresi:** [https://library.umutramazanegi.com/calibre/](https://library.umutramazanegi.com/calibre/)
 
-*   **Calibre:** Powerful open-source e-book management software. Its content server feature is used to organize, convert, and serve the books.
-*   **Yunohost:** A server operating system based on Debian, simplifying self-hosting. It facilitated the easy installation and management of the Calibre application.
-*   **Debian:** The stable and reliable Linux operating system running on the server.
+---
 
-## 🚀 Teknoloji Yığını
+## 📖 About | Hakkında
 
-🇹🇷 Kütüphane sunucusu aşağıdaki teknolojiler kullanılarak hayata geçirilmiştir:
+### 🇬🇧 English
 
-*   **Calibre:** Açık kaynaklı, güçlü bir e-kitap yönetim yazılımı. Kitapları organize etmek, dönüştürmek ve sunmak için Calibre'nin içerik sunucusu özelliği kullanılmaktadır.
-*   **Yunohost:** Self-hosting (kendi kendine barındırma) işlemlerini basitleştiren, Debian tabanlı bir sunucu işletim sistemi. Calibre uygulamasının kolayca kurulmasını ve yönetilmesini sağlamıştır.
+This server hosts my personal digital book collection, currently containing approximately **500 e-books**. My primary goal is to maintain a centralized, self-controlled archive for my reading materials that is easily accessible from anywhere.
+
+### 🇹🇷 Türkçe
+
+Bu sunucu, kişisel dijital kitap koleksiyonumu barındırmaktadır ve şu anda yaklaşık **500 adet e-kitap** içermektedir. Temel amacım, okuma materyallerim için her yerden kolayca erişilebilen, merkezi ve kendi kontrolümde olan bir arşiv oluşturmaktır.
+
+---
+
+## 🚀 Technology Stack | Teknoloji Yığını
+
+### 🇬🇧 English
+
+The library server is built and operated using the following technologies:
+
+*   **Calibre:** A powerful, open-source e-book management software. Its content server feature is utilized to organize, convert, and serve the e-books.
+*   **Yunohost:** A server operating system based on Debian, designed to simplify self-hosting tasks. It facilitated the straightforward installation and management of the Calibre application.
+*   **Debian:** The stable and reliable Linux operating system that the server runs on.
+
+### 🇹🇷 Türkçe
+
+Kütüphane sunucusu aşağıdaki teknolojiler kullanılarak hayata geçirilmiş ve çalıştırılmaktadır:
+
+*   **Calibre:** Güçlü, açık kaynaklı bir e-kitap yönetim yazılımı. Kitapları organize etmek, dönüştürmek ve sunmak için Calibre'nin içerik sunucusu özelliği kullanılmaktadır.
+*   **Yunohost:** Self-hosting (kendi kendine barındırma) işlemlerini basitleştirmek üzere tasarlanmış, Debian tabanlı bir sunucu işletim sistemi. Calibre uygulamasının kolayca kurulmasını ve yönetilmesini sağlamıştır.
 *   **Debian:** Sunucunun üzerinde çalıştığı kararlı ve güvenilir Linux işletim sistemi.
 
 ---
 
-## 🌐 Access and Contact
+## 🌐 Access and Contact | Erişim ve İletişim
 
-🇬🇧 The library can be accessed via the link above. However, access to the library is currently **private** and may require user login.
+### 🇬🇧 English
 
-**If you would like to use the library or inquire about access, please feel free to contact me through my website at [umutramazanegi.com](https://umutramazanegi.com).**
+You can attempt to access the library via the link provided above. However, please note that access to the library is currently **private** and likely requires user authentication.
 
-## 🌐 Erişim ve İletişim
+**If you are interested in using the library or have questions regarding access, please do not hesitate to contact me through my personal website: [umutramazanegi.com](https://umutramazanegi.com).**
 
-🇹🇷 Kütüphaneye yukarıda verilen bağlantı üzerinden erişilebilir. Ancak, kütüphaneye erişim şu anda **özeldir** ve kullanıcı girişi gerektirebilir.
+### 🇹🇷 Türkçe
 
-**Kütüphaneyi kullanmak veya erişim hakkında bilgi almak isterseniz, lütfen [umutramazanegi.com](https://umutramazanegi.com) adresindeki web sitem üzerinden benimle iletişime geçmekten çekinmeyin.**
+Kütüphaneye yukarıda verilen bağlantı üzerinden erişmeyi deneyebilirsiniz. Ancak, kütüphaneye erişimin şu anda **özel** olduğunu ve muhtemelen kullanıcı girişi gerektirdiğini lütfen unutmayın.
 
----
-
-## 🎯 Purpose of This Repository
-
-🇬🇧 This GitHub repository **does not host** the library server itself. Its purpose is to:
-
-1.  Announce the existence of the library server.
-2.  Provide information about the infrastructure and technologies used.
-3.  Serve as an example for those interested in self-hosting and digital library management.
-4.  Offer a channel for interested individuals to contact me.
-
-## 🎯 Bu Reponun Amacı
-
-🇹🇷 Bu GitHub deposu, kütüphane sunucusunun kendisini **barındırmaz**. Amacı şunlardır:
-
-1.  Kütüphane sunucusunun varlığını duyurmak.
-2.  Kullanılan altyapı ve teknolojiler hakkında bilgi vermek.
-3.  Self-hosting ve dijital kütüphane yönetimi ile ilgilenenler için bir örnek teşkil etmek.
-4.  İlgilenen kişilerin benimle iletişime geçmesi için bir kanal sunmak.
+**Kütüphaneyi kullanmakla ilgileniyorsanız veya erişim hakkında sorularınız varsa, lütfen kişisel web sitem olan [umutramazanegi.com](https://umutramazanegi.com) üzerinden benimle iletişime geçmekten çekinmeyin.**
 
 ---
 
-## 📄 License
+## 🎯 Purpose of This Repository | Bu Reponun Amacı
 
-🇬🇧 The content of this `README.md` file is licensed under the [MIT License](LICENSE). (Use this line if you add a `LICENSE` file; otherwise, you can omit or choose a different license.)
+### 🇬🇧 English
 
-## 📄 Lisans
+It is important to understand that this GitHub repository **does not host** the actual library server or its content. The primary purposes of this repository are:
 
-🇹🇷 Bu `README.md` dosyasının içeriği [MIT Lisansı](LICENSE) altında lisanslanmıştır. (Eğer bir `LICENSE` dosyası ekleyecekseniz bu satırı kullanın, yoksa lisans belirtmeyebilir veya farklı bir lisans seçebilirsiniz.)
+1.  To announce the existence and provide a central point of information for my library server.
+2.  To detail the technical infrastructure and software stack used in its creation.
+3.  To serve as a practical example for individuals interested in self-hosting and digital library management.
+4.  To provide a clear channel for interested parties to contact me regarding the library.
+
+### 🇹🇷 Türkçe
+
+Bu GitHub deposunun, kütüphane sunucusunun kendisini veya içeriğini **barındırmadığını** belirtmek önemlidir. Bu deponun temel amaçları şunlardır:
+
+1.  Kütüphane sunucumun varlığını duyurmak ve hakkında merkezi bir bilgi noktası sağlamak.
+2.  Kurulumunda kullanılan teknik altyapıyı ve yazılım yığınını detaylandırmak.
+3.  Self-hosting ve dijital kütüphane yönetimi ile ilgilenen kişiler için pratik bir örnek teşkil etmek.
+4.  Kütüphane ile ilgilenen kişilerin benimle iletişime geçebileceği net bir kanal sunmak.
 
 ---
 
-***🇬🇧 You can add your own personal notes or any other information you wish to include in this template.***
-***🇹🇷 Kendi kişisel notlarınızı veya eklemek istediğiniz başka bilgileri bu şablona ekleyebilirsiniz.***
+## 📄 License | Lisans
+
+### 🇬🇧 English
+The textual content of this `README.md` file is made available under the [MIT License](LICENSE). (Consider adding a `LICENSE` file to your repository if you choose this license).
+
+### 🇹🇷 Türkçe
+Bu `README.md` dosyasının metin içeriği [MIT Lisansı](LICENSE) altında sunulmaktadır. (Bu lisansı seçerseniz, reponuza bir `LICENSE` dosyası eklemeyi düşünebilirsiniz).
+
+---
+
+***🇬🇧 Feel free to add any personal notes or additional relevant information here.***
+***🇹🇷 Buraya kendi kişisel notlarınızı veya ilgili gördüğünüz ek bilgileri ekleyebilirsiniz.***
