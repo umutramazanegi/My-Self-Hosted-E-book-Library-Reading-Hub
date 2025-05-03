@@ -1,14 +1,38 @@
 # Kişisel Kütüphane Sunucusu | Personal Library Server 📚
 
+---
 
+**🖼️ Screenshots | Ekran Görüntüleri**
 
-<!-- 🖼️ Resim Alanı | Image Section 🖼️ -->
-<!-- Buraya kütüphanenizin bir ekran görüntüsünü veya tanıtıcı bir resmi ekleyebilirsiniz. -->
-<!-- You can add a screenshot of your library or an introductory image here. -->
-<!-- Örnek / Example: -->
-<!-- ![Kütüphane Arayüzü](images/screenshot.png) -->
-<!-- Resminizi reponuzdaki bir 'images' klasörüne ekleyip yukarıdaki gibi bağlayabilirsiniz. -->
-<!-- Add your image to an 'images' folder in your repo and link it as shown above. -->
+<p align="center">
+  <em>Login Screen | Giriş Ekranı</em><br>
+  <img src="https://github.com/umutramazanegi/My-Self-Hosted-E-book-Library-Reading-Hub/blob/main/picture/login.png?raw=true" alt="Login Screen" width="75%">
+</p>
+
+<p align="center">
+  <em>Homepage | Anasayfa</em><br>
+  <img src="https://github.com/umutramazanegi/My-Self-Hosted-E-book-Library-Reading-Hub/blob/main/picture/anasayfa.png?raw=true" alt="Homepage" width="75%">
+</p>
+
+<p align="center">
+  <em>Book List | Kitap Listesi</em><br>
+  <img src="https://github.com/umutramazanegi/My-Self-Hosted-E-book-Library-Reading-Hub/blob/main/picture/kitaplar.png?raw=true" alt="Book List" width="75%">
+</p>
+
+<p align="center">
+  <em>Authors | Yazarlar</em><br>
+  <img src="https://github.com/umutramazanegi/My-Self-Hosted-E-book-Library-Reading-Hub/blob/main/picture/yazarlar.png?raw=true" alt="Authors" width="75%">
+</p>
+
+<p align="center">
+  <em>Categories | Kategoriler</em><br>
+  <img src="https://github.com/umutramazanegi/My-Self-Hosted-E-book-Library-Reading-Hub/blob/main/picture/kategori.png?raw=true" alt="Categories" width="75%">
+</p>
+
+<p align="center">
+  <em>Series | Seriler</em><br>
+  <img src="https://github.com/umutramazanegi/My-Self-Hosted-E-book-Library-Reading-Hub/blob/main/picture/Seriler.png?raw=true" alt="Series" width="75%">
+</p>
 
 ---
 
